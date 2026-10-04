@@ -11,6 +11,7 @@ A Machine Learning web application that predicts the price of a car based on use
 | Talha Gillani | 2510158 |
 | Ahsan Javed | 2510150 |
 | Usaid Malik | 2510159 |
+| Muhammad Abdullah Munawar | 2510167 |
 
 ---
 
